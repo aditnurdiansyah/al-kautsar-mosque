@@ -1,0 +1,22 @@
+# Al-Kautsar Mosque Website
+This is the website of the Al-Kautsar Mosque in Cilegon city, Banten province - Indonesia
+
+## 🌐 Live Demo
+
+Online Version :  
+https://al-kautsar-mosque.vercel.app
+
+## 📌 Main Features
+
+- Donate Button
+- Prayer Schedule
+- Preaching Video
+- Gallery
+- Location
+- Contact
+
+## 🛠️ Technology Used
+
+- HTML for page structure
+- CSS for styling and layout
+- JavaScript basis for interactivity
