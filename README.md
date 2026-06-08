@@ -3,8 +3,7 @@ This is the website of the Al-Kautsar Mosque in Cilegon city, Banten province - 
 
 ## 🌐 Live Demo
 
-Online Version :  
-https://al-kautsar-mosque.vercel.app
+🔗 [Online Version](https://al-kautsar-mosque.vercel.app)
 
 ## 📌 Main Features
 
