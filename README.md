@@ -128,13 +128,11 @@ The hero section contains a welcome message for visitors and a donation button c
 
 The prayer schedule section displays five daily prayer times:
 
-| Prayer | Time |
-|---|---:|
-| Subuh | 04:08 |
-| Dzuhur | 11:45 |
-| Ashar | 15:12 |
-| Maghrib | 17:59 |
-| Isya | 19:15 |
+- Subuh 
+- Dzuhur 
+- Ashar 
+- Maghrib 
+- Isya 
 
 The current implementation presents fixed times for **Kota Cilegon dan sekitarnya**. The schedule is not connected to a real-time prayer-time API.
 
