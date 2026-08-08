@@ -311,12 +311,6 @@ Open `index.html` in a modern web browser.
 
 For development, it is recommended to use a local development server such as **Live Server** in Visual Studio Code.
 
-## Live Demo
-
-The website is currently available online at:
-
-https://al-kautsar-mosque.vercel.app
-
 ## Customization
 
 The website can be customized by modifying:
@@ -418,7 +412,3 @@ The project demonstrates practical frontend development concepts including seman
 The **Al-Kautsar Mosque Website** provides a digital platform for presenting essential mosque information in an accessible and responsive format. Visitors can view prayer schedules, watch preaching content, explore mosque documentation, view the mosque location, and access a direct donation channel.
 
 By combining HTML5, CSS3, JavaScript, responsive design, AOS animations, YouTube integration, Google Maps, and local multimedia assets, this project provides a solid foundation for developing a more complete digital mosque information system in the future.
-
-## Live Website
-
-https://al-kautsar-mosque.vercel.app
